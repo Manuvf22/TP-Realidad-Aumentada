@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9cc1b3a6969db1a40a566ca22f6250b3, type: 3}
+  m_Name: Sillon2
+  m_EditorClassIdentifier: Assembly-CSharp::FurnitureData
+  nombre: 2 cuerpos
+  categoria: "Sill\xF3n"
+  prefab: {fileID: 6289293855326214118, guid: 00cf77ba999db7640a8f8dcbc03e3da2, type: 3}
+  icono: {fileID: 21300000, guid: d318849be0ad8b44e8d508377269c2cd, type: 3}

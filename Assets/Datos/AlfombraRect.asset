@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9cc1b3a6969db1a40a566ca22f6250b3, type: 3}
+  m_Name: AlfombraRect
+  m_EditorClassIdentifier: Assembly-CSharp::FurnitureData
+  nombre: Rectangular
+  categoria: Alfombra
+  prefab: {fileID: 6697418595594576304, guid: 337eb4647e66f78479c8d63b0bfe384b, type: 3}
+  icono: {fileID: 21300000, guid: b0c86127b938ad84ab00256c07134e85, type: 3}

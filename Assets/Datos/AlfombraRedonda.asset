@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9cc1b3a6969db1a40a566ca22f6250b3, type: 3}
+  m_Name: AlfombraRedonda
+  m_EditorClassIdentifier: Assembly-CSharp::FurnitureData
+  nombre: Redonda
+  categoria: Alfombra
+  prefab: {fileID: 8249995557134768968, guid: 1bc7dc70a626dc645a5deb611fea2e70, type: 3}
+  icono: {fileID: 21300000, guid: 7adb6ba3caef0fa48993d03e4acbe77f, type: 3}
